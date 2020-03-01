@@ -1,10 +1,9 @@
 import {NgModule} from "@angular/core";
 import {CounterComponent} from "./counter.component";
-import {HelloComponent} from './hello.component';
 
 @NgModule({
     declarations: [
-        CounterComponent, HelloComponent
+        CounterComponent
     ],
     imports: [
       
